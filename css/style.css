@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+
+
 /*PRIORITY*/
 
 .z-1{
@@ -230,7 +232,7 @@ main{
     right: 0;
 }
 
-.containerHeart:checked{
+.containerHeart:hover{
     color: red;
 }
 
