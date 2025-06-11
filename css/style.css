@@ -172,7 +172,6 @@ main{
     position: relative;
     height: 600px;
     overflow: hidden;
-    background-color: brown;
 }
 
 .containerImmagine img{
@@ -190,9 +189,10 @@ main{
     display: block;
 }
 
+
+
 /*                        FOOTER                            */
 
 footer{
     padding-top: 100px;
-    margin: 0px 10px;
 }
