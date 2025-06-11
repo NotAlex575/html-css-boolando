@@ -149,6 +149,10 @@
     background-color: black;
 }
 
+.bg-red{
+    background-color: red;
+}
+
 .color-white{
     color: white;
 }
@@ -212,6 +216,30 @@ main{
 
 .containerImmagine:hover .back-image{
     display: block;
+}
+
+.discount{
+    padding: 10px;
+    color: white;
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+}
+
+.sostenibilita{
+    padding: 10px;
+    color: white;
+    position: absolute;
+    bottom: 15px;
+    left: 63px;
+}
+
+.sostenibilita6foto{
+    padding: 10px;
+    color: white;
+    position: absolute;
+    bottom: 15px;
+    left: 0px;
 }
 
 .prizeDiscount{
