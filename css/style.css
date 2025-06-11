@@ -59,6 +59,10 @@
     margin-left: 100px;
 }
 
+.margin-left-14{
+    margin-left: 14px;
+}
+
 /* FLEX */
 
 .flex{
@@ -90,6 +94,12 @@
 
 .justify-content-center{
     justify-content: center;
+}
+
+/* JUSTIFY-CONTENT: FLEX-END */
+
+.justify-content-end{
+    justify-content: flex-end;
 }
 
 /* JUSTIFY-CONTENT: SPACE BETWEEN */
@@ -126,6 +136,10 @@
 
 .bg-black{
     background-color: black;
+}
+
+.color-white{
+    color: white;
 }
 
 /*CONTAINER*/
