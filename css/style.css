@@ -32,6 +32,14 @@
     margin: 0 5px;
 }
 
+.margin-right-100{
+    margin-right: 100px;
+}
+
+.margin-left-100{
+    margin-left: 100px;
+}
+
 /* FLEX */
 
 .flex{
@@ -95,6 +103,7 @@
 
 .menu{
     width: 100%;
+    height: 70px;
 }
 
 .imgSize{
