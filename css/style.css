@@ -47,6 +47,10 @@
     margin-top: 10px;
 }
 
+.margin-top-50{
+    margin-top: 50px;
+}
+
 .margin-right-100{
     margin-right: 100px;
 }
@@ -67,9 +71,7 @@
     align-items: center;
 }
 
-.col{
-    width: 400px;
-}
+
 
 /* JUSTIFY-CONTENT: CENTER; ALIGN-ITEMS: CENTER */
 
@@ -128,7 +130,7 @@
 
 /*CONTAINER*/
 .container{
-    max-width: 1200px;
+    max-width: 1410px;
     margin: 0 auto;
 }
 
@@ -148,4 +150,33 @@
 header a{
     color: white;
     text-decoration: none;
+}
+
+/*                        MAIN                            */
+
+main{
+    padding-top: 100px;
+    margin: 0px 10px;
+}
+
+.col{
+    width: 450px;
+}
+
+.wrap{
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.containerImmagine{
+    position: relative;
+    height: 600px;
+    background-color: brown;
+}
+
+/*                        FOOTER                            */
+
+footer{
+    padding-top: 100px;
+    margin: 0px 10px;
 }
