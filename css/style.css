@@ -189,7 +189,13 @@ main{
     display: block;
 }
 
+.prizeDiscount{
+    color: red;
+}
 
+.prizeBefore{
+    text-decoration: line-through;
+}
 
 /*                        FOOTER                            */
 
