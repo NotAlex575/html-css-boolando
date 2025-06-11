@@ -171,7 +171,23 @@ main{
 .containerImmagine{
     position: relative;
     height: 600px;
+    overflow: hidden;
     background-color: brown;
+}
+
+.containerImmagine img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.containerImmagine:hover .front-image{
+    display: none;
+}
+
+.containerImmagine:hover .back-image{
+    display: block;
 }
 
 /*                        FOOTER                            */
